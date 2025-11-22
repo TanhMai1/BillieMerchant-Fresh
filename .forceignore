@@ -1,0 +1,7 @@
+**/jsconfig.json
+
+**/.eslintrc.json
+
+# Ignore test files
+**/__tests__/**
+**/*.test.js
